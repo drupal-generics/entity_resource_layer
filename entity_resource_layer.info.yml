@@ -1,0 +1,7 @@
+name: Rest develop
+type: module
+description: Provides rest plugin for developers.
+core: 8.x
+package: Other
+dependencies:
+  - rest
